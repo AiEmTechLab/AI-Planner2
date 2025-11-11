@@ -1,0 +1,9 @@
+import { View , Text } from "react-native";
+
+export default function Index(){
+ return(
+<view style={{flex: 1 , justifyContent: 'center ' , alignItems : 'center'}}>
+<Text>  AI & EmTech Lab Dashboard Coming Soon </Text>
+</view>
+ );
+}
